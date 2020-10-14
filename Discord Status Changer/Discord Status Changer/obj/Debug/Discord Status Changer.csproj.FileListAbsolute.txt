@@ -1,0 +1,10 @@
+C:\Users\mihag\source\repos\Discord Status Changer\Discord Status Changer\bin\Debug\Discord Status Changer.exe.config
+C:\Users\mihag\source\repos\Discord Status Changer\Discord Status Changer\bin\Debug\Discord Status Changer.exe
+C:\Users\mihag\source\repos\Discord Status Changer\Discord Status Changer\bin\Debug\Discord Status Changer.pdb
+C:\Users\mihag\source\repos\Discord Status Changer\Discord Status Changer\obj\Debug\Discord Status Changer.csprojAssemblyReference.cache
+C:\Users\mihag\source\repos\Discord Status Changer\Discord Status Changer\obj\Debug\Discord_Status_Changer.Form1.resources
+C:\Users\mihag\source\repos\Discord Status Changer\Discord Status Changer\obj\Debug\Discord_Status_Changer.Properties.Resources.resources
+C:\Users\mihag\source\repos\Discord Status Changer\Discord Status Changer\obj\Debug\Discord Status Changer.csproj.GenerateResource.cache
+C:\Users\mihag\source\repos\Discord Status Changer\Discord Status Changer\obj\Debug\Discord Status Changer.csproj.CoreCompileInputs.cache
+C:\Users\mihag\source\repos\Discord Status Changer\Discord Status Changer\obj\Debug\Discord Status Changer.exe
+C:\Users\mihag\source\repos\Discord Status Changer\Discord Status Changer\obj\Debug\Discord Status Changer.pdb
